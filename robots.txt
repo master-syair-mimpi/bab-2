@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://master-syair-mimpi.github.io/bab-2/sitemap.xml
